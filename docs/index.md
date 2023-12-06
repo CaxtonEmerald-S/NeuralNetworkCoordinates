@@ -58,3 +58,7 @@ If you encounter any issues or have suggestions, please open an issue.
 
 ## Authors
 [Caxton Emerald S](mailto:ces.softwaresolutions@gmail.com), [Vengattaraman T](mailto:vengattaraman.t@pondiuni.ac.in)
+
+By using this package, you agree to its terms and conditions.
+
+© 2023 Caxton Emerald S
